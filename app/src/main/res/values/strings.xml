@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Individual 5</string>
+    <string name="password">Contraseña</string>
+    <string name="e_mail">E-mail</string>
+    <string name="last_name">Apellido</string>
+    <string name="first_name">Nombre</string>
+    <string name="create_account">Crear Cuenta</string>
+    <string name="back">Salir</string>
+</resources>
